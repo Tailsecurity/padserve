@@ -1,6 +1,6 @@
 # Padserve - Secure Messaging System over Tailscale
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![Go](https://github.com/drewwalton19216801/padserve/actions/workflows/go.yml/badge.svg)](https://github.com/drewwalton19216801/padserve/actions/workflows/go.yml)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![Go](https://github.com/tailsecurity/padserve/actions/workflows/go.yml/badge.svg)](https://github.com/tailsecurity/padserve/actions/workflows/go.yml)
 
 This Go-based messaging system implements a secure TCP server-client communication protocol, utilizing Tailscale to establish a secure network overlay. The server and clients use elliptic curve Diffie-Hellman (ECDH) key exchange to establish a shared secret for encrypted message exchanges, providing secure, authenticated communication over the Tailscale network.
 
@@ -24,7 +24,7 @@ This Go-based messaging system implements a secure TCP server-client communicati
 Clone the repository and navigate to the project directory:
 
 ```sh
-git clone https://github.com/drewwalton19216801/padserve.git
+git clone https://github.com/tailsecurity/padserve.git
 cd padserve
 ```
 
@@ -72,7 +72,7 @@ The server supports the following commands sent from clients:
 
 ## Running the Client
 
-**UPDATE:** The client has been moved from this repository to its own repository. Please refer to the [Padserve Client](https://github.com/drewwalton19216801/padclient) for usage instructions.
+**UPDATE:** The client has been moved from this repository to its own repository. Please refer to the [Padserve Client](https://github.com/tailsecurity/padclient) for usage instructions.
 
 ## Example Usage
 
@@ -104,8 +104,8 @@ Please refer to our [CONTRIBUTING.md](docs/CONTRIBUTING.md) file for details on 
 
 ## Also See
 
-- [tailutils](https://github.com/drewwalton19216801/tailutils) for Tailscale utility functions
-- [padclient](https://github.com/drewwalton19216801/padclient) for the official Padserve Client implementation
+- [tailutils](https://github.com/tailsecurity/tailutils) for Tailscale utility functions
+- [padclient](https://github.com/tailsecurity/padclient) for the official Padserve Client implementation
 
 ## License
 
