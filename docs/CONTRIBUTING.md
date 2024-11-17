@@ -19,7 +19,7 @@ If you're new to open source contributions, we recommend checking out [First Con
 
 To contribute to Padserve, follow these steps:
 
-1. **Fork the Repository**: Visit [Padserve GitHub Repo](https://github.com/drewwalton19216801/padserve) and click the "Fork" button to create your copy of the repository.
+1. **Fork the Repository**: Visit [Padserve GitHub Repo](https://github.com/tailsecurity/padserve) and click the "Fork" button to create your copy of the repository.
 2. **Clone the Forked Repository**: Clone your fork to work on it locally.
    ```bash
    git clone https://github.com/YOUR_USERNAME/padserve.git
@@ -35,7 +35,7 @@ To contribute to Padserve, follow these steps:
    ```bash
    git push origin feature/your-feature-name
    ```
-8. **Submit a Pull Request (PR)**: Go to the [Padserve GitHub repository](https://github.com/drewwalton19216801/padserve) and open a PR from your branch.
+8. **Submit a Pull Request (PR)**: Go to the [Padserve GitHub repository](https://github.com/tailsecurity/padserve) and open a PR from your branch.
 
 ## How to Contribute
 
@@ -43,7 +43,7 @@ To contribute to Padserve, follow these steps:
 
 If you discover bugs or have questions, please open an issue. You can do so by following these steps:
 
-- Navigate to the [Issues tab](https://github.com/drewwalton19216801/padserve/issues).
+- Navigate to the [Issues tab](https://github.com/tailsecurity/padserve/issues).
 - Click on "New Issue."
 - Provide a clear and descriptive title, and fill in the details of the problem.
 - If you can, include steps to reproduce the issue, expected behavior, and relevant information such as environment details.
@@ -75,7 +75,7 @@ To start contributing to Padserve, follow these steps:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/drewwalton19216801/padserve.git
+   git clone https://github.com/tailsecurity/padserve.git
    cd padserve
    ```
 2. Install dependencies:
@@ -107,4 +107,4 @@ This project adheres to the Contributor Covenant [Code of Conduct](CODE_OF_CONDU
 
 Thank you for contributing to Padserve! Together, we can create a more secure and private messaging system for everyone. We value your time, ideas, and efforts and look forward to seeing your contributions.
 
-For any questions, feel free to ask in the [discussions](https://github.com/drewwalton19216801/padserve/discussions) tab or by tagging maintainers in an issue.
+For any questions, feel free to ask in the [discussions](https://github.com/tailsecurity/padserve/discussions) tab or by tagging maintainers in an issue.
